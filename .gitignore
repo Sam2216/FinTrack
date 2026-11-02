@@ -1,0 +1,19 @@
+# Compiled Java files
+*.class
+
+# Build output
+bin/
+out/
+build/
+target/
+
+# Editor and operating system files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Personal financial records
+data/*
+!data/.gitkeep
